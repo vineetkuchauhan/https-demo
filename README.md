@@ -1,4 +1,4 @@
-# one-way-ssl-demo
+# https-demo
 
 
 1- Generating a Self-Signed Certificate
