@@ -1,4 +1,4 @@
-package com.letsdoit.onewayssldemo;
+package com.letsdoit.httpsdemo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

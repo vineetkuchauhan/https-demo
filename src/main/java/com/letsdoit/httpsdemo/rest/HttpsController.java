@@ -1,4 +1,4 @@
-package com.letsdoit.onewayssldemo.rest;
+package com.letsdoit.httpsdemo.rest;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
