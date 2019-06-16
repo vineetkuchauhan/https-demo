@@ -6,12 +6,12 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-@RequestMapping("/springdemo/v1/test/onewayssl")
-public class OneWaySslController {
+@RequestMapping("/https/v1/test")
+public class HttpsController {
 
     @GetMapping
     @ResponseBody
     public String sayHello() {
-        return "Hi, This is one way ssl test!";
+        return "Hi, This is https demo test !";
     }
 }

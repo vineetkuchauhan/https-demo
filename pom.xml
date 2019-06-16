@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.letsdoit</groupId>
-    <artifactId>one-way-ssl-demo</artifactId>
+    <artifactId>https-demo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>one-way-ssl-demo</name>
+    <name>https-demo</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
